@@ -22,6 +22,5 @@ Fine-tuning open-source AI models (Llama, Mistral)
 Advanced search & retrieval using vector databases
 TensorFlow for deep learning applications
 📫 Let's Connect!
-🔗 GitHub: github.com/yourusername
 💼 LinkedIn: linkedin.com/in/asma-alrifai
 📧 Email: asma.o.alrifai@gmail.com
