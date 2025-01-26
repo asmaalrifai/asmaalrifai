@@ -38,7 +38,7 @@ I'm a passionate software engineer with a strong background in **AI, machine lea
 ---
 
 ### 📫 Let's Connect!  
-🔗 **GitHub:** [github.com/yourusername](#)  
+🔗 **GitHub:** [github.com/asmaalrifai](#)  
 💼 **LinkedIn:** [linkedin.com/in/asma-alrifai](#)  
 📧 **Email:** asma.o.alrifai@gmail.com  
 
