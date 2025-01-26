@@ -1,11 +1,11 @@
-👋 Hi, I'm Asma ALrifai
+👋 Hi, I'm Asma Alrifai
 🚀 AI & Software Engineer | LLM RAG Enthusiast | Backend Developer
 
 💡 About Me
-I'm a passionate software engineer with a strong background in AI, machine learning, and backend development. My expertise spans across multiple programming languages and frameworks, focusing on AI model development, data-driven applications, and scalable backend solutions.
+I'm a passionate software engineer with a strong background in AI, machine learning, and backend development. My expertise spans multiple programming languages and frameworks, focusing on AI model development, data-driven applications, and scalable backend solutions.
 
 🔬 Areas of Expertise
-AI & Machine Learning: LLMs, RAG (Retrieval-Augmented Generation), Transformers, XGBoost, LSTM, GRU
+AI & Machine Learning: LLMs, RAG (Retrieval-Augmented Generation), Transformers, XGBoost, LSTM, GRU, TensorFlow
 Time Series & Predictive Modeling: ARIMA, SARIMA, Prophet
 Backend Development: Next.js, Node.js, Express.js, REST APIs
 Databases: NoSQL (MongoDB, Firebase), SQL (PostgreSQL, MySQL)
@@ -20,6 +20,8 @@ Built predictive models for financial forecasting and AI-powered chatbots with L
 LLM RAG (Retrieval-Augmented Generation)
 Fine-tuning open-source AI models (Llama, Mistral)
 Advanced search & retrieval using vector databases
+TensorFlow for deep learning applications
 📫 Let's Connect!
 🔗 GitHub: github.com/yourusername
-💼 LinkedIn: linkedin.com/in/asma-alrefaei
+💼 LinkedIn: linkedin.com/in/asma-alrifai
+📧 Email: asma.o.alrifai@gmail.com
