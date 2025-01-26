@@ -1,4 +1,4 @@
-👋 Hi, I'm Asma Alrifai
+## 👋 Hi, I'm Asma Alrifai
 🚀 AI & Software Engineer | LLM RAG Enthusiast | Backend Developer
 
 💡 About Me
