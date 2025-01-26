@@ -50,11 +50,4 @@ I'm a passionate software engineer with a strong background in **AI, machine lea
 
 ---
 
-### 🚀 Latest Projects  
-- 🏆 **[Project Name 1](#)** – Short description of the project  
-- 🏆 **[Project Name 2](#)** – Short description of the project  
-- 🏆 **[Project Name 3](#)** – Short description of the project  
-
----
-
 🔹 *Feel free to connect, collaborate, or discuss anything AI & ML-related!* 🚀  
