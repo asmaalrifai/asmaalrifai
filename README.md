@@ -45,8 +45,10 @@ I'm a passionate software engineer with a strong background in **AI, machine lea
 ---
 
 ## 🔥 GitHub Stats  
-![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaalrifai&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaalrifai&layout=compact&theme=tokyonight)  
+![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaalrifai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaalrifai&layout=donut&theme=tokyonight)
+
 
 ---
 
